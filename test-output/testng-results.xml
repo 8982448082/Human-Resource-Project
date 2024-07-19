@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T16:20:24 IST" name="Default suite" finished-at="2024-06-18T16:20:55 IST" duration-ms="30723">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T16:20:24 IST" name="Default test" finished-at="2024-06-18T16:20:55 IST" duration-ms="30723">
+      <class name="com.OrangeHRM.TeseCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:24 IST" name="setUp" finished-at="2024-06-18T16:20:36 IST" duration-ms="11457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageSetup()[pri:0, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:36 IST" name="pageSetup" finished-at="2024-06-18T16:20:38 IST" duration-ms="2202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyAdmin()[pri:1, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:38 IST" name="verifyAdmin" finished-at="2024-06-18T16:20:44 IST" duration-ms="5943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdmin -->
+        <test-method signature="verifySearchWithUsername()[pri:2, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:44 IST" name="verifySearchWithUsername" finished-at="2024-06-18T16:20:48 IST" duration-ms="3949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithUsername -->
+        <test-method signature="verifySearchWithUserRole()[pri:3, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:48 IST" name="verifySearchWithUserRole" finished-at="2024-06-18T16:20:52 IST" duration-ms="4045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithUserRole -->
+        <test-method signature="verifySearchWithUserStatus()[pri:4, instance:com.OrangeHRM.TeseCases.HomePageTest@21337f7b]" started-at="2024-06-18T16:20:52 IST" name="verifySearchWithUserStatus" finished-at="2024-06-18T16:20:55 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithUserStatus -->
+      </class> <!-- com.OrangeHRM.TeseCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
